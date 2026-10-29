@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-534-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-535-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -47,7 +47,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (52)
 - [Filesystems and Documents](#filesystems-and-documents) (21)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (27)
-- [Communication and Productivity](#communication-and-productivity) (64)
+- [Communication and Productivity](#communication-and-productivity) (65)
 - [AI, Agents, and Memory](#ai-agents-and-memory) (60)
 - [Data, Analytics, and BI](#data-analytics-and-bi) (55)
 - [Legal and Court Data](#legal-and-court-data) (7)
@@ -541,6 +541,8 @@ Integrate chat, email, calendars, and team collaboration tools.
   `video` `video-generation` `social-media` `remote`
 - **[Microsoft Teams MCP Server](https://github.com/InditexTech/mcp-teams-server)** `TypeScript` — Interact with Microsoft Teams channels, messages, and meetings.  
   `teams` `chat` `microsoft`
+- **[model.tools](https://github.com/maceip/model-tools-mcp)** `Official` `JavaScript` — Zero-auth email OTP extraction, KV state checkpoints, webhook receiver bins, delayed HTTP wakeup callbacks, and URL-to-Markdown reader for AI agents.  
+  `email` `inbox` `otp` `webhook` `remote`
 - **[Multi Upload Tool](https://docs.multi-upload-tool.com/mcp)** `Official` `TypeScript` — Schedule and publish videos and photos to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X; validate, reschedule, cancel and retry posts, and read post status and analytics.  
   `social-media` `publishing` `video` `remote` `oauth`
 - **[Muslim Prayer Reminder MCP](https://github.com/tareq7/muslim-prayer-mcp)** `TypeScript` — Calculates Muslim prayer times by location and regional method, including next-prayer countdowns.  

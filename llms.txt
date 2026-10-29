@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Hand-curated, link-checked catalog of 534 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
+> Hand-curated, link-checked catalog of 535 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This catalog lists well-scoped, source-available servers for databases, developer tools, browsers, cloud services, and more. Entries are reviewed for a clear purpose, a public source, and recent or official maintenance. Links are checked on every pull request and weekly.
 
@@ -252,6 +252,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [Mailcoach](https://www.mailcoach.app/resources/learn-mailcoach/integrations/mcp-server/): Read Mailcoach email lists, subscribers, campaigns, statistics and transactional mail logs, and create draft campaigns, templates and test sends; it cannot send a campaign to a full list. (PHP, official)
 - [MakeAIVideo](https://github.com/makeaivideo-ai/mcp): Official MakeAIVideo server for creating short-form AI videos with voiceover, scenes, captions and music, then posting them to connected social accounts. (TypeScript, official)
 - [Microsoft Teams MCP Server](https://github.com/InditexTech/mcp-teams-server): Interact with Microsoft Teams channels, messages, and meetings. (TypeScript)
+- [model.tools](https://github.com/maceip/model-tools-mcp): Zero-auth email OTP extraction, KV state checkpoints, webhook receiver bins, delayed HTTP wakeup callbacks, and URL-to-Markdown reader for AI agents. (JavaScript, official)
 - [Multi Upload Tool](https://docs.multi-upload-tool.com/mcp): Schedule and publish videos and photos to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X; validate, reschedule, cancel and retry posts, and read post status and analytics. (TypeScript, official)
 - [Muslim Prayer Reminder MCP](https://github.com/tareq7/muslim-prayer-mcp): Calculates Muslim prayer times by location and regional method, including next-prayer countdowns. (TypeScript)
 - [NeverApply](https://github.com/kasovy/neverapply-mcp): AI job-search agent: search and match jobs, tailor resumes, answer screening questions, and apply with your approval. (Other, official)

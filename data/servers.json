@@ -8926,5 +8926,24 @@
     "endpoints": {
       "streamableHttp": "https://app.hutchdb.com/api/mcp"
     }
+  },
+  {
+    "name": "model.tools",
+    "url": "https://github.com/maceip/model-tools-mcp",
+    "description": "Zero-auth email OTP extraction, KV state checkpoints, webhook receiver bins, delayed HTTP wakeup callbacks, and URL-to-Markdown reader for AI agents.",
+    "category": "communication-and-productivity",
+    "language": "JavaScript",
+    "provider": "model.tools",
+    "tags": [
+      "email",
+      "inbox",
+      "otp",
+      "webhook",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.model.tools/mcp"
+    }
   }
 ]
